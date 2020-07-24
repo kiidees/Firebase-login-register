@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "154007196693",
+    "firebase_url": "https://basefire-a73f9.firebaseio.com",
+    "project_id": "basefire-a73f9",
+    "storage_bucket": "basefire-a73f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154007196693:android:9755612245a23c87",
+        "android_client_info": {
+          "package_name": "com.example.kyde.basefire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154007196693-cs4ihrb13rv38fb7fsjamrbjov22mhvg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kyde.basefire",
+            "certificate_hash": "877264bab13a0052688797604eeea4b03ab37e14"
+          }
+        },
+        {
+          "client_id": "154007196693-ijk87op3pl7f7i6r1k9425qr9nu3o892.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX-ke7pjykZWiXrpn30zC3p1Mvk5wIB58"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154007196693-ijk87op3pl7f7i6r1k9425qr9nu3o892.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
